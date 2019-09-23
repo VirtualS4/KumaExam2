@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165529312362",
+    "firebase_url": "https://kumaexam2.firebaseio.com",
+    "project_id": "kumaexam2",
+    "storage_bucket": "kumaexam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165529312362:android:64adfa101867e2270bbe13",
+        "android_client_info": {
+          "package_name": "com.example.rona.kumaexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165529312362-tpmul1l8n26citt2p5c2uvhai83q49r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rona.kumaexam2",
+            "certificate_hash": "70fc5ccf3e05d4dd15dccbeaf0cc0cddac5944de"
+          }
+        },
+        {
+          "client_id": "165529312362-ohbdm9guq784ht060ef8712qhmdj41dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7INcL2QaAQjektq0bvrgXJ9xp_p8KSv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165529312362-ohbdm9guq784ht060ef8712qhmdj41dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
